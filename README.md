@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HOKComics
-- 👀 I’m interested in serverless computing stuff (especially AWS), web Development and, well ... COMICS! :-)
+- 👀 I’m interested in serverless computing stuff (especially AWS), web development and, well ... COMICS! :-)
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on CMS stuff (like Webiny)
 
